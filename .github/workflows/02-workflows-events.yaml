@@ -1,5 +1,5 @@
 name: 02 - Workflow Event
-on: push
+on: pull_request
 
 jobs:
   echo:
